@@ -1,0 +1,33 @@
+Section No. 178
+Name: Travelling Without Ticket
+Clauses:
+	(1) On behalf of authorities
+	Sub-Clauses:
+		(a) Conductor fails to perform his duty: For the failure of conductor or driver performing conductor's duty
+		Punishment: Rs.500 Fine
+
+		(b) Driver refuses to carry passengers: If the driver refuses to ply or carry passengers 
+		Punishment: Rs.50 Fine
+		
+		(c) Two-wheeled vehicle or three- wheeled: In case of Two-wheeled vehicle or three-wheeled vehicle 
+		Punishment: Rs.50 Fine
+	(2) On behalf of Passengers
+	Sub-Clauses:
+		(a) Present Pass or Ticket: If the passenger fails to present pass or ticket when asked for
+		Punishment: Rs.500
+		
+		(b) Any other case
+		Punishment: Rs.20
+
+
+
+
+
+
+		
+
+
+
+
+
+
